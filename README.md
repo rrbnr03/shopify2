@@ -1,3 +1,7 @@
+> **Warning**
+>
+> This project has been absorbed by and moved to [Shopify/theme-tools](https://github.com/Shopify/theme-tools).
+
 # Theme Check ✅ - A linter for Themes
 
 Think RuboCop, or eslint, but for Shopify themes.
